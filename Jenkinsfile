@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage("Configuration setup...") { 
             steps {
-                echo "Configuration setup..."
+                echo "Configuration setup test 123..."
             }            
     }
   }
